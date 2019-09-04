@@ -1,6 +1,6 @@
 using System;
 
-namespace Sensei
+namespace Sensei_App
 {
     public class WeatherForecast
     {
